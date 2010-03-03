@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-Very-Modern-Perl
-version:            0.03
+version:            0.04
 abstract:           Use the most modern of Perl!
 author:
     - Frank Wiegand <frank.wiegand@gmail.com>
@@ -14,7 +14,7 @@ requires:
     common::sense:  0
     latest:         0
     Modern::Perl:   0
-    perl5i:         0
+    perl5i:         v1.0.0
     Test::More:     0
     Toolkit:        0
     uni::perl:      0

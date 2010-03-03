@@ -9,11 +9,11 @@ Acme::Very::Modern::Perl - Use the most modern of Perl!
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04;
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Modern::Perl;
 use Toolkit;
@@ -74,7 +74,7 @@ L<http://search.cpan.org/dist/Acme-Very-Modern-Perl/>
 
 =head1 SEE ALSO
 
-L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>.
+L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>, L<perl5i>.
 
 =head1 COPYRIGHT & LICENSE
 
